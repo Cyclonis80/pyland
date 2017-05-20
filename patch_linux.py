@@ -4,6 +4,10 @@
 #centos boxes                             #
 ###########################################
 
+#This script will only work with python 2.7 and above 
+
+
+
 ####################
 #Modules           #
 ####################
