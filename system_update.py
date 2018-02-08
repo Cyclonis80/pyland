@@ -2,8 +2,8 @@
 #################################################
 #This script keeps my mac osx uptodate with the #    
 #latest patches and updates                     #
-#written by bsdjedi                             #
-#sept 30, 2010                                  #
+#written by cyclonis                            #
+#Feb 8, 2018                                    #
 #################################################
 
 from subprocess import call, PIPE, Popen
